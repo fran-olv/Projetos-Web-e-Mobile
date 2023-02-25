@@ -2,8 +2,7 @@
 Codificações da disciplina Desenvolvimento de Sistemas 2.
 
 Agendas
-- 1
-- 2
+- 2: Página de Cadastro de um site em PHP
 - 3
 - 4
 - 5
@@ -11,5 +10,5 @@ Agendas
 - 7
 - 8
 - 9: App Android de Calculadora 
-- 10: App com Multiplas Telas
-- 11: Conversor de Medidas
+- 10: App Android com Multiplas Telas
+- 11: App Android Conversor de Medidas
